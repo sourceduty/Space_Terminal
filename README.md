@@ -1,4 +1,4 @@
-![Space Terminal](https://github.com/user-attachments/assets/c8fe633a-00e0-49e5-b078-0b899044e445)
+![Modern Space Control Panel Room](https://github.com/user-attachments/assets/fb7360a4-2197-4efc-ac4e-de37375578b6)
 
 > Simulate any of the NASA software tools for engineering, analysis, and mission planning.
 
