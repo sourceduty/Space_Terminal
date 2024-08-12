@@ -13,6 +13,50 @@ The custom GPT is also designed to be highly adaptive, responding to user querie
 Moreover, this GPT is not just a static knowledge base; it interacts dynamically with users to guide them through various tasks. Whether you're troubleshooting an issue with a spacecraft model or trying to optimize a mission trajectory, it provides step-by-step assistance. This interactive approach helps users to better understand the tools they are using, making it easier to achieve their goals in aerospace projects.
 
 #
+### Simulation Environments
+
+```
+Available NASA Simulation Environments:
+
+1. **Mission Planning and Design**
+   - GMAT (General Mission Analysis Tool)
+   - Copernicus
+
+2. **Trajectory Analysis**
+   - TRAJ (Trajectory Analysis Tool)
+   - MONTE (Mission Analysis and Operations Navigation Toolkit Environment)
+
+3. **Data Analysis and Visualization**
+   - HDFView
+   - Panoply
+   - Python-based Data Analysis (NumPy, SciPy, Matplotlib)
+
+4. **Spacecraft Systems Simulation**
+   - OpenMDAO (Multidisciplinary Design, Analysis, and Optimization)
+   - Trick Simulation Environment
+
+5. **Astrophysical Simulations**
+   - SPICE (Spacecraft Planet Instrument C-matrix Events)
+   - HEASARC (High Energy Astrophysics Science Archive Research Center)
+
+6. **Propulsion Systems Simulation**
+   - CEA (Chemical Equilibrium with Applications)
+   - ROCETS (Rocket Engine Transient Simulation)
+
+7. **Atmospheric and Environmental Modeling**
+   - GISS ModelE (Climate Modeling)
+   - GEOS-Chem (Atmospheric Chemistry Modeling)
+
+8. **Human Spaceflight and Life Sciences**
+   - ANITA (Analytical Tool for Space Life Support Systems)
+   - ALSSAT (Advanced Life Support System Analysis Tool)
+
+9. **Orbital Mechanics and Attitude Control**
+   - Orekit (Orbit determination and control toolkit)
+   - ADFACS (Advanced Digital Fly-by-wire Aircraft Control System)
+```
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
